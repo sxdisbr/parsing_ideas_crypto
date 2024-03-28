@@ -18,7 +18,7 @@ To set up this project locally, follow these steps:
 ## Usage
 To run the sentiment analysis, execute the script from the command line:
 ```bash
-python sentiment_analysis_crypto.py
+python parsing_ideas.py
 ```
 
 ## Disclaimer
